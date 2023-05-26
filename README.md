@@ -1,1 +1,1 @@
-# Learning-Activation-Functions pdf, word and ipynb files are uploaded.
+# Learning-Activation-Functions pdf, word(link provided) and ipynb files are uploaded.
